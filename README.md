@@ -1,1 +1,3 @@
-# Programmatic-Auto-Layout-Constaints
+# Programmatic Auto-Layout-Constaints
+
+I followed a Hackingwithswift tutorial for this assignment.
